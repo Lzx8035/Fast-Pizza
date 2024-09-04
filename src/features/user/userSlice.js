@@ -24,15 +24,15 @@ async function fetchAddress() {
 }
 
 const initialState = {
-  userName: "Leaaa",
+  username: "",
 };
 
 const userSlice = createSlice({
   name: "user",
   initialState,
-  reducer: {
+  reducers: {
     updateName(state, action) {
-      state.userName = action.payload;
+      state.username = action.payload;
     },
   },
 });
