@@ -5,8 +5,6 @@ export function formatCurrency(value) {
   }).format(value);
 }
 
-console.log(formatCurrency(5.55));
-
 export function formatDate(dateStr) {
   return new Intl.DateTimeFormat("en", {
     day: "numeric",
