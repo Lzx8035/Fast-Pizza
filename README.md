@@ -1,13 +1,10 @@
-# This Project is for learning React Router with data loading
+Welcome to my Project: ** Fast Pizza App ** 🎉
 
-# and Tailwind CSS
+An single-page App for ordering pizza online 🍕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Plz check the link below:
+🌐：https://lea-fast-pizza-project.netlify.app/
 
-Currently, two official plugins are available:
+Technologies used: Redux, Tailwind, and Advanced React Router with Data Loading
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-- 🌐: https://reactrouter.com/en/main
-- 🌐: https://tailwindcss.com/
+Based on the online course by https://www.udemy.com/course/the-ultimate-react-course/
