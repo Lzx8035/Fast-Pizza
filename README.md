@@ -1,6 +1,6 @@
-Welcome to my Project: ** Fast Pizza App ** 🎉
+Welcome to my Project: **Fast Pizza App** 🎉
 
-An single-page App for ordering pizza online 🍕
+A single-page App for ordering pizza online 🍕
 
 Plz check the link below:
 🌐：https://lea-fast-pizza-project.netlify.app/
